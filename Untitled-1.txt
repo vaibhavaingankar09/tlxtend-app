@@ -1,0 +1,5 @@
+https://jsonplaceholder.typicode.com/albums 
+https://jsonplaceholder.typicode.com/photos?albumId=1 
+https://jsonplaceholder.typicode.com/albums/1/photos 
+
+https://pusher.com/tutorials/consume-restful-api-react
